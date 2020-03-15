@@ -7,7 +7,7 @@ demo program to upload all CSV data to a mySQL table so that I can perform some 
 ## todo
 Validation
 
-#P.S
+# P.S
 add a database.properties file in src folder alomnd side MainApplication class like this :
 JDBC_DRIVER =com.mysql.jdbc.Driver
 DB_URL =jdbc:mysql://localhost:3306/
